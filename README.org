@@ -2,9 +2,8 @@
 
 A lightweight, async HTTP client
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/orthecreedence/carrier.git   |
-| commit  | 5b01a09  |
-| systems | carrier |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/orthecreedence/carrier.git |
+| commit  | 95ea9ed                                           |
+| systems | carrier                                           |
+|---------+---------------------------------------------------|
